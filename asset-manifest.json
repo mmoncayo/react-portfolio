@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.481aa705.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.9f1b55a8.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.9f1b55a8.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/react-portfolio/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.b4b61087.chunk.js": "/react-portfolio/static/js/2.b4b61087.chunk.js",
+    "static/js/2.b4b61087.chunk.js.map": "/react-portfolio/static/js/2.b4b61087.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.fffe08f5afa465036e9cd46c0df2eda7.js": "/react-portfolio/precache-manifest.fffe08f5afa465036e9cd46c0df2eda7.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/react-portfolio/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.481aa705.chunk.css.map": "/react-portfolio/static/css/main.481aa705.chunk.css.map",
+    "static/js/2.b4b61087.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.b4b61087.chunk.js.LICENSE.txt",
+    "static/media/bio.jpg": "/react-portfolio/static/media/bio.067c2c66.jpg",
+    "static/media/burger.png": "/react-portfolio/static/media/burger.3eed6599.png",
+    "static/media/job.png": "/react-portfolio/static/media/job.d684a914.png",
+    "static/media/loo.png": "/react-portfolio/static/media/loo.3654b90f.png",
+    "static/media/planner.png": "/react-portfolio/static/media/planner.96993ad1.png",
+    "static/media/quiz.png": "/react-portfolio/static/media/quiz.182a5535.png",
+    "static/media/vault.png": "/react-portfolio/static/media/vault.ccf0dde6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.b4b61087.chunk.js",
+    "static/css/main.481aa705.chunk.css",
+    "static/js/main.9f1b55a8.chunk.js"
+  ]
+}
